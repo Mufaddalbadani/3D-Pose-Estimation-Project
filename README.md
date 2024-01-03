@@ -1,7 +1,7 @@
-# 2D-Pose-Estimation
+# 👯‍♂️ 2D-Pose-Estimation
 Pose Estimation using OpenPose (Deep Learning with OpenCV)
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The objective of this project is to create a computer vision model that identifies key points related to human anatomy and establishes logical connections between these key points. The utilized model is a pre-trained OpenPose model developed by Carnegie Mellon University, generating two types of outputs: Confidence Maps and Part Affinity Maps. The code demonstration focuses on a single person in the image, employing Confidence Maps, also referred to as Probability Maps.
 
@@ -14,7 +14,7 @@ The link contains a prototxt and caffe model file.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Project Overview**
+**📖Project Overview**
 The goal of the project is to develop a Deep Learning model to detect the keypoints and associate with the humans anatomy.
 
 1. **Initialize Model and Load Pre-trained Weights**:- Install the model from the link above. It conatins a prototxt file and a caffe model file which is the model weights file.
@@ -30,7 +30,7 @@ The goal of the project is to develop a Deep Learning model to detect the keypoi
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Notes**
+**🟢Notes**
 
 * Ensure the proper setup of the pose model files (protofile and weightsfile).
 * Adjust the threshold and other parameters based on specific project requirements.
