@@ -37,4 +37,5 @@ The goal of the project is to develop a Deep Learning model to detect the keypoi
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+**Output**
+![Asset 3](https://github.com/Mufaddalbadani/2D-Pose-Estimation/assets/62328487/3713f30c-8b3e-4593-bc81-95848ce86d85)
