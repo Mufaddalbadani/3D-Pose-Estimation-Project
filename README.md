@@ -7,7 +7,7 @@ The objective of this project is to create a computer vision model that identifi
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
-# Model
+Model
 Open-Pose caffe model trained on multi purpose image dataset. The model is capable of detecting 135 keypoints.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
